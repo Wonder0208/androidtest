@@ -90,3 +90,5 @@ presentation/ — ViewModel, Compose UI screens
 <!-- Updated by bot at 2026-07-07T04:24:10.586Z -->
 
 <!-- Updated by bot at 2026-07-07T04:24:28.085Z -->
+
+<!-- Updated by bot at 2026-07-07T04:24:45.803Z -->
